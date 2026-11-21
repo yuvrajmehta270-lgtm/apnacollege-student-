@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: black;
+}
+
+h1{
+    align-items: center;
+    align-content: center;
+    flex: auto;
+    color: red;
+
+}
+button.Like{
+    flex: auto; 
+   align-items: center;
+    align-content: center;
+    border-radius: 12px;
+    cursor: pointer;
+    color: green;
+    background-color: brown;
+}
+button{ 
+     flex: auto; 
+    align-items: center;
+    align-content: center;
+    border-radius: 12px;
+    cursor: pointer;
+    color: aqua;
+    background-color: red;
+}
+
+
+
